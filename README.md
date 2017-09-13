@@ -13,3 +13,4 @@ Simple Deployment Tool
 ## How to Contribute
 
 ## Comments
+All Rights Reserved
