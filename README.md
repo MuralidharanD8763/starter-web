@@ -11,6 +11,7 @@ Sample website with plenty of files for demos for GIT training.
 Simple Deployment Tool
 
 ## How to Contribute
+Over GitHub
 
 ## Comments
-All Rights Reserved
+All Rights Reserved!!!!
